@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_riva.mk
+    $(LOCAL_DIR)/komodo_riva.mk

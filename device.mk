@@ -370,6 +370,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libwpa_client \
 
+# OTA
+PRODUCT_PACKAGES += \
+    Updates
+
 PRODUCT_PACKAGES += \
     hostapd \
     wpa_supplicant \
