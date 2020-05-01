@@ -25,6 +25,7 @@ $(call inherit-product, vendor/komodo/config/common_full_phone.mk)
 CURRENT_BUILD_TYPE := nogapps
 KOMODO_BUILD_TYPE := OFFICIAL
 TARGET_BOOT_ANIMATION_RES := 720
+KOMODO_OFFICIAL := true
 
 # Inherit from riva device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
