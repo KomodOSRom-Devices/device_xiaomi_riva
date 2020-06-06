@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "ChanWij/android_kernel_xiaomi_msm8917",
+    "repository": "fadlyas07/kernel_xiaomi_rova_sd425",
     "target_path": "kernel/xiaomi/msm8917",
-    "branch": "lineage-17.1"
+    "branch": "A10"
   },
   {
     "remote": "github",
