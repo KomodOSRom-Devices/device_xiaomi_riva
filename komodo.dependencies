@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "SunnyRaj84348/kernel_xiaomi_msm8917",
+    "repository": "SunnyRaj84348/android_kernel_xiaomi_msm8917",
     "target_path": "kernel/xiaomi/msm8917",
     "branch": "lineage-17.1"
   },
