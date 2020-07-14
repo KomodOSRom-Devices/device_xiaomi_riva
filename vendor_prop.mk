@@ -159,6 +159,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Wifi
 PRODUCT_PROPERTY_OVERRIDES += \
     wifi.interface=wlan0
+
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
     org.komodo.maintainer=ChandraW
+
+# Fast App Launch
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.device_config.runtime_native.usap_pool_enabled=true
