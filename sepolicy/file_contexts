@@ -26,6 +26,9 @@
 # Ir
 /dev/lirc[0-9]*					u:object_r:lirc_device:s0
 
+# LiveDisplay Hals
+/(vendor|system/vendor)/bin/hw/vendor\.lineage\.livedisplay@2\.0-service\.xiaomi_riva				u:object_r:hal_lineage_livedisplay_qti_exec:s0
+
 # Rild
 /(vendor|system/vendor)/radio/qcril_database/qcril.db	u:object_r:rild_file:s0
 
