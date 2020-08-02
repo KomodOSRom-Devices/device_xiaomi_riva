@@ -189,7 +189,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
-    org.komodo.maintainer=ChandraW
+    org.komodo.maintainer=ChannXrizaL
 
 # Fast App Launch
 PRODUCT_PROPERTY_OVERRIDES += \
